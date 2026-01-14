@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Data files (large CSVs - keep sample data only)
+data/*.csv
+!data/customers.csv
+!data/subscriptions.csv
+!data/usage_events.csv
+!data/sales_touches.csv
+
+# Power BI
+*.pbix
+powerbi/*.pbix
+
+# Output files
+python/output/*
+!python/output/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Generated files
+high_risk_customers.csv
+*.log
+

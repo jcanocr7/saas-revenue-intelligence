@@ -1,0 +1,7 @@
+# TODO: Add Python dependencies here
+# pandas
+# numpy
+# matplotlib
+# seaborn
+# statsmodels
+
