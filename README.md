@@ -169,4 +169,3 @@ Revenue Operations Professional | Berlin, Germany
 [LinkedIn](https://linkedin.com/in/jorge-cano-reyes) | [Email](mailto:canojorge12r@gmail.com)
 
 *Built as portfolio project to demonstrate technical capabilities for Revenue Operations, GTM Analytics, and Commercial Strategy roles. Data is synthetically generated; all business insights are illustrative.*
-
