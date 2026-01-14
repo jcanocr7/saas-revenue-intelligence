@@ -135,31 +135,6 @@ Built to demonstrate end-to-end revenue analytics capabilities required for Reve
 
 ✅ **RevOps Thinking:** Builds systems that answer "What should Sales do tomorrow?" not just "What happened last month?"
 
----
-
-## How to Use This Portfolio
-
-**For Recruiters:**
-
-- SQL queries in `/sql/` folder show technical depth
-- Power BI screenshots in `/powerbi/screenshots/` (no Power BI installation needed)
-- Python notebook demonstrates forecasting capability
-
-**For Hiring Managers:**
-
-- Clone repo, run `python data/generate_data.py` to regenerate data
-- Load CSVs into PostgreSQL/MySQL using `sql/schema.sql`
-- Run individual query files to see results
-- Open Power BI file to interact with dashboard
-
-**For Technical Interviews:**
-
-- "Walk me through your churn risk query" → Explain CTE logic, filtering criteria
-- "How did you build the forecast model?" → Discuss cohort retention curves, sensitivity scenarios
-- "Why these specific KPIs in the dashboard?" → Explain SaaS unit economics, RevOps priorities
-
----
-
 ## Author
 
 **Jorge Cano**
