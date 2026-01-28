@@ -1,4 +1,4 @@
-# SaaS Revenue Intelligence System
+# Revenue Operations Portfolio
 
 **A comprehensive Revenue Operations analytics portfolio demonstrating SQL, Python, and Power BI capabilities for GTM decision-making.**
 
